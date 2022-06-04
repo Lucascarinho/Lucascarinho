@@ -24,3 +24,4 @@
 
   ![Snake animation](https://github.com/Lucascarinho/Lucascarinho/blob/output/github-contribution-grid-snake.svg)
 </div>
+
