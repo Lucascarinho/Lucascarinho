@@ -3,7 +3,7 @@
  <div>
   <a href="https://github.com/LucasACout">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasACout&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasACout&theme=midnight-purple&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasACout"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
